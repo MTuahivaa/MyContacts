@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="previous"><![CDATA[<<]]></string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="num_ro_de_contact">Numéro de Contact</string>
+    <string name="avatar_user">avatar_user</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
+    <string name="adresse">Adresse</string>
+    <string name="code_postal">Code Postal</string>
+    <string name="email">Email</string>
+    <string name="metier">Métier</string>
+    <string name="situation">Situation</string>
+    <string name="first">First</string>
+    <string name="previous_contact">Previous</string>
+    <string name="ndc">NDC</string>
+    <string name="next_contact">Next</string>
+    <string name="last">Last</string>
+    <string name="cr_er_fiche">Créer Fiche</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="enregistrer">Enregistrer</string>
+</resources>
